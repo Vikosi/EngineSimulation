@@ -1,0 +1,5 @@
+﻿  EngineSimulation.cpp
+  InputOutputData.cpp
+C:\Users\VikOS-02\source\repos\TestTaskCPP\TestTaskCPP\InputOutputData.cpp(12,10): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+  TestTaskCPP.vcxproj -> C:\Users\VikOS-02\source\repos\TestTaskCPP\x64\Debug\TestTaskCPP.exe
