@@ -15,7 +15,7 @@ using namespace std;
 	void dataInputOutput::WriteTime(const int time)
 	{
 		setlocale(LC_ALL, "Russian");
-		if (time == MAX_TIME)
+		if (time >= MAX_TIME)
 			cout << endl << "При такой температуре двигатель не перегреется" << endl;
 		else
 			cout << endl << "Время до момента перегрева двигателя: " << time << " сек." << endl;
